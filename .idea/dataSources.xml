@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="zjweusao@172.16.42.9" uuid="596ae911-924c-47a7-bd52-96ec76a1a8fb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.16.42.9:3306/zjweusao?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=GMT%2b8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="zjweusao@127.0.0.1" uuid="3515ea5c-17b4-4b65-9ec7-d2d92dc82889">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/zjweusao?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=GMT%2b8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="zjweusao@47.99.69.136" uuid="9e04effc-0f30-4337-a28f-6a939c66a54f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://47.99.69.136:3306/zjweusao?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=GMT%2b8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
